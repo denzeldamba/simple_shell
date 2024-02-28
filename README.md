@@ -1,1 +1,1 @@
-This is a group project by Denzel Damba and  Rashid Ali
+This is a project by Denzel Damba
